@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.button {
+  margin: auto;
+  border-radius: 8px;
+  color: rgba(128, 128, 128, 0.75);
+  padding: 20px 34px;
+  background-color: #44f0cc90;
+}

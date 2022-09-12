@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+/* .button {
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+  display: flex;
+  border-radius: 8px;
+  color: rgba(128, 128, 128, 0.972);
+  padding: 20px 34px;
+  background-color: #44f0cc90;
+} */
+.lottie-container {
+  position: relative;
+  top: 50%;
+  /* left: 50%; */
+}
+.channel {
+  text-align: center;
+  /* padding: 1rem; */
+  font-size: 2.5rem;
+}
+.left {
+  position: relative;
+  left: -45px;
+}
+.text {
+  font-size: medium;
+  font-weight: 800px;
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.button {
+  margin: auto;
+  padding: 20px 34px;
+  background-color: #44f0cc90;
+}
